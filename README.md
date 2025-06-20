@@ -1,4 +1,4 @@
-# MemGuard and MemPol Evaluation on Arm DSU Platforms
+# MemGuard and MemPol Evaluation on DynamIQ Arm Systems
 
 This repository contains the code and configuration used for the experiments described in our paper:
 
